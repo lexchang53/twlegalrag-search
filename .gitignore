@@ -1,0 +1,17 @@
+# Python 暫存
+__pycache__/
+*.py[cod]
+
+# 機密與個人測試檔（不得公開）
+.env
+.env.*
+test-prompts.json
+
+# 檢索暫存產物
+bundle.json
+answer.txt
+*.bundle.json
+
+# 系統檔
+.DS_Store
+Thumbs.db
